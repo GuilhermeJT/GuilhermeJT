@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante Back End 
+🧑🏽‍💻 Estudante Back End 
 
 
 ## 🌐 Socials:
